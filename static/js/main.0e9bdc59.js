@@ -64100,7 +64100,7 @@
 
 	module.exports = {
 		"name": "AnniBeta",
-		"homepage": "http://dev.anni.io/",
+		"homepage": "https://anni-platform.github.io",
 		"version": "0.1.0",
 		"private": true,
 		"devDependencies": {
@@ -83221,4 +83221,4 @@
 
 /***/ }
 /******/ ])));
-//# sourceMappingURL=main.6b66c98b.js.map
+//# sourceMappingURL=main.0e9bdc59.js.map
